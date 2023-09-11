@@ -1,0 +1,62 @@
+{
+    "businesses": [
+      {
+        "id": 1,
+        "name": "Dana's place",
+        "category": "Restaurant",
+        "address": "123 Main St, Cityville",
+        "phone": "(555) 123-4567"
+      },
+      {
+        "id": 2,
+        "name": "Krafter's hub",
+        "category": "Retail",
+        "address": "456 Elm St, Townsville",
+        "phone": "(555) 987-6543"
+      },
+      {
+        "id": 3,
+        "name": "Centar",
+        "category": "Information Communication and Technology",
+        "address": "789 Oak St, Villageton",
+        "phone": "(555) 789-1234"
+      },
+      {
+        "id": 4,
+        "name": "Astra",
+        "category": "Cosmetics",
+        "address": "101 Pine St, Techville",
+        "phone": "(555) 234-5678"
+      },
+      {
+        "id": 5,
+        "name": "King Polli",
+        "category": "Event Center",
+        "address": "100 Vine St, Rackville",
+        "phone": "(555) 234-2378"
+      }
+      ,
+      {
+        "id": 6,
+        "name": "Wonder-Land",
+        "category": "Event Center",
+        "address": "789 Oak St, Villageton",
+        "phone": "(555) 789-1234"
+      },
+      {
+        "id": 7,
+        "name": "Divine Institute",
+        "category": "Education",
+        "address": "101 Pine St, Techville",
+        "phone": "(555) 234-5678"
+      },
+      {
+        "id": 8,
+        "name": "JSAY E-Learning",
+        "category": "Education",
+        "address": "100 Vine St, Rackville",
+        "phone": "(555) 234-2378"
+      }
+    ]
+  }
+  

@@ -1,0 +1,10 @@
+.directory-container{
+    padding: 30px;
+}
+.directory-container h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+@media only screen and (min-width: 375px) and (max-width: 480px) {
+} 

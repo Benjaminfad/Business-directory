@@ -1,0 +1,25 @@
+ // COLOR
+$blackColor:rgba(24, 24, 24, 0.816);
+$deepBlack:black;
+$whiteColor: #efeeee;
+$greyColor:rgba(137, 136, 136, 0.688);
+$blueColor:royalblue;
+
+
+// FONTS
+
+$titleFont: Arial sans-serif;
+$bodyFont: Bahnschrift SemiBold ;
+
+
+@mixin buttonStyle($color, $fontSize){
+    padding: 10px;
+    width: 100%;
+    font-size: $fontSize;
+    margin-top: 40px;
+    background-color:$color;
+    border-radius: 14px;
+    color: #fff;
+    border: none;
+    transition: 0.9s;
+}
